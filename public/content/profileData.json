@@ -3,13 +3,13 @@
     "profilePhoto": "/content/media/profilePhoto.jpg",
     "username": "tanmay",
     "displayName": "Tanmay Bhatnagar",
-    "profession": "Lighting / Level Artist",
+    "profession": "CG Generalist",
     "location": "London, UK",
     "pronouns": "He/Him",
-    "byline": "Lighting / Level Artist in London, UK, He/Him",
+    "byline": "CG Generalist in London, UK, He/Him",
     "website": "https://www.artstation.com/agentinfinity",
     "websiteURL": "https://www.artstation.com/agentinfinity",
-    "about": "Unreal Engine artist (MA Games Art, B.Arch) with over six years of experience crafting real-time 3D environments, animations, and interactive VR/AR applications. My architectural background provides a unique perspective on level design and spatial storytelling, complemented by expertise in advanced lighting, look-dev, optimization, and Blueprint scripting gained through my work on games, VR projects, and interactive application development. Driven to explore technical art and procedural methods to realize artistic goals, with a passion for integrating technology to enhance storytelling.",
+    "about": "MA in Games Art graduate with 5+ years in real-time archviz, VR/AR, and animation using Unreal Engine, Blender, and Cinema4D. Skilled in various design tools, passionate about tech art, procedural content, and currently exploring film effects emulation in Unreal Engine.",
     "status": {
       "text": null,
       "emoji": null,
@@ -31,12 +31,25 @@
       "heading": "3D Generalist at Intellectual Point",
       "url": null,
       "collaborators": [],
-      "description": "Worked on a number of 3D (still and animated), motion-design, and VR projects for a US-based IT company for marketing and educational purposes. Primarily in Unreal Engine, Blender and After Effects.",
+      "description": "* Archviz (still and animated) and motion-design, for marketing and in-house usage. Environment design, look-dev, and rendering.\n\n* VR experiences for educational and training purposes. Environment design, Blueprint scripting, packaging, and implementation. \n\n* Virtual Production and Real-Time compositing. Environment design, motion graphics, pipeline development, packaging, and implementation.",
       "attachments": [],
       "type": "workExperience",
       "title": "3D Generalist",
       "company": "Intellectual Point",
-      "location": "VA, USA"
+      "location": "Sterling, VA"
+    },
+    {
+      "id": "TB11kxixR5PjplDhBS4z",
+      "year": "2023 — 2024",
+      "heading": "Lighting/Level Artist at S-Game Studio",
+      "url": null,
+      "collaborators": [],
+      "description": "* Designed and implemented lighting for mid-large scale environments in UE5, balancing aesthetic requirements with performance optimization to meet strict budget constraints and art direction guidelines.\n\n* Created detailed landscapes and terrains for exterior environments, ensuring immersive and playable levels.\n\n* Placed and modified props and hero assets based on greybox designs, following art direction briefs to achieve the desired visual narrative. \n\n* Developed and integrated dynamic weather effects and ambient VFX.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Lighting/Level Artist",
+      "company": "S-Game Studio",
+      "location": "Hong Kong"
     },
     {
       "id": "2J3UHusP25hymAbjKaJc",
@@ -44,7 +57,7 @@
       "heading": "Motion Designer at Design Factory India",
       "url": "http://designfactoryindia.org/",
       "collaborators": [],
-      "description": "Primary role was producing animations and visuals on historical and cultural topics, for display in museums and exhibition spaces. Dealt with creating solutions for technical and creative aspects of projection mapping animations on large-scale exterior and interior surfaces.\\\n\\\nAlso worked on research, concept development, copywriting, photo editing, illustrations, UI design, sound design, 3D modelling/rendering, and client presentations for various design projects.",
+      "description": "* Produced motion graphics and visuals for large-scale displays in museums and exhibition spaces. \n\n* Created solutions for technical and creative aspects of projection mapping animations on large-scale exterior and interior surfaces.\n\n* Responsibilities also included research, concept development, copywriting, photo editing, illustrations, UI design, sound design, 3D modeling and rendering, and client presentations.",
       "attachments": [],
       "type": "workExperience",
       "title": "Motion Designer",
@@ -57,7 +70,7 @@
       "heading": "Architectural Visualiser at Point Construction",
       "url": null,
       "collaborators": [],
-      "description": "Worked with an architecture studio on an interior design project to create real-time walkthroughs and cinematics with Unreal Engine.\\\n\\\nResponsibilities included translating construction drawings to 3D scenes and assets, importing to UE4, lighting, shading, post-processing, and compositing.",
+      "description": "* Real-time archviz walkthroughs and cinematics with UE4. Environment design, look-dev, and rendering.\n\n* Motion design and graphics for marketing and in-house usage.",
       "attachments": [],
       "type": "workExperience",
       "title": "Architectural Visualiser",
@@ -70,7 +83,7 @@
       "heading": "Technical Artist at VRRT",
       "url": "http://www.vrrt.com/",
       "collaborators": [],
-      "description": "Worked as the Unreal Engine specialist in a visualisation studio on a variety of projects ranging from interactive furniture showcases to real-time interior walkthroughs.\\\n\\\nResponsibilities included importing existing scenes and assets to UE4, lighting, shading, post-processing, and creating visuals and cinematics.",
+      "description": "* UE4 tech artist for various visualization projects, including archviz, product design, and interactive demos.",
       "attachments": [],
       "type": "workExperience",
       "title": "Technical Artist",
@@ -83,7 +96,7 @@
       "heading": "Architectural Intern at Innovarch",
       "url": null,
       "collaborators": [],
-      "description": "Worked with a team of architects to create technical drawings, traditional 3D visuals, and walkthroughs for projects of various scales",
+      "description": "* Worked with a team of architects to create technical drawings, linear 3D visualizations, and walkthroughs for residential and commercial projects.",
       "attachments": [],
       "type": "workExperience",
       "title": "Architectural Intern",
@@ -95,27 +108,27 @@
   "education": [
     {
       "id": "40uDsQJzdPjLrBEtjUwT",
-      "year": "2022 — Now",
-      "heading": "MA Game Art and Design at University of Hertfordshire",
+      "year": "2022 — 2023",
+      "heading": "MA Games Art and Design at University of Hertfordshire",
       "url": "https://www.herts.ac.uk/",
       "collaborators": [],
-      "description": "Graduated with a portfolio in Lighting Art. Working primarily in Unreal Engine and other 3D softwares.",
+      "description": "",
       "attachments": [],
       "type": "education",
-      "degree": "MA Game Art and Design",
+      "degree": "MA Games Art and Design",
       "school": "University of Hertfordshire",
-      "location": "United Kingdom"
+      "location": "Hatfield, UK"
     },
     {
       "id": "Rcu2soEPxVk9i2kOJaJp",
       "year": "2013 — 2018",
-      "heading": "Bachelor of Architecure at MNIT",
+      "heading": "B.Arch at MNIT",
       "url": "http://mnit.ac.in/",
       "collaborators": [],
-      "description": null,
+      "description": "",
       "attachments": [],
       "type": "education",
-      "degree": "Bachelor of Architecure",
+      "degree": "B.Arch",
       "school": "MNIT",
       "location": "Jaipur, India"
     }
@@ -134,7 +147,26 @@
       "organization": "Coursera"
     }
   ],
-  "contact": [],
+  "contact": [
+    {
+      "id": "XSQNHwpIRRi0TzOaxDRd",
+      "platform": "Website",
+      "handle": "artstation.com/agentinfinity",
+      "url": "https://www.artstation.com/agentinfinity"
+    },
+    {
+      "id": "bygFOm3fbVnTK5eW0lZs",
+      "platform": "LinkedIn",
+      "handle": "tanmaybhatnagar",
+      "url": "https://linkedin.com/in/tanmaybhatnagar"
+    },
+    {
+      "id": "zCTOXuqDVHtuoDnoPtXk",
+      "platform": "Email",
+      "handle": "tanmaybhatnagar56@gmail.com",
+      "url": "mailto:tanmaybhatnagar56@gmail.com"
+    }
+  ],
   "allCollections": [
     {
       "name": "Work Experience",
@@ -145,12 +177,25 @@
           "heading": "3D Generalist at Intellectual Point",
           "url": null,
           "collaborators": [],
-          "description": "Worked on a number of 3D (still and animated), motion-design, and VR projects for a US-based IT company for marketing and educational purposes. Primarily in Unreal Engine, Blender and After Effects.",
+          "description": "* Archviz (still and animated) and motion-design, for marketing and in-house usage. Environment design, look-dev, and rendering.\n\n* VR experiences for educational and training purposes. Environment design, Blueprint scripting, packaging, and implementation. \n\n* Virtual Production and Real-Time compositing. Environment design, motion graphics, pipeline development, packaging, and implementation.",
           "attachments": [],
           "type": "workExperience",
           "title": "3D Generalist",
           "company": "Intellectual Point",
-          "location": "VA, USA"
+          "location": "Sterling, VA"
+        },
+        {
+          "id": "TB11kxixR5PjplDhBS4z",
+          "year": "2023 — 2024",
+          "heading": "Lighting/Level Artist at S-Game Studio",
+          "url": null,
+          "collaborators": [],
+          "description": "* Designed and implemented lighting for mid-large scale environments in UE5, balancing aesthetic requirements with performance optimization to meet strict budget constraints and art direction guidelines.\n\n* Created detailed landscapes and terrains for exterior environments, ensuring immersive and playable levels.\n\n* Placed and modified props and hero assets based on greybox designs, following art direction briefs to achieve the desired visual narrative. \n\n* Developed and integrated dynamic weather effects and ambient VFX.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Lighting/Level Artist",
+          "company": "S-Game Studio",
+          "location": "Hong Kong"
         },
         {
           "id": "2J3UHusP25hymAbjKaJc",
@@ -158,7 +203,7 @@
           "heading": "Motion Designer at Design Factory India",
           "url": "http://designfactoryindia.org/",
           "collaborators": [],
-          "description": "Primary role was producing animations and visuals on historical and cultural topics, for display in museums and exhibition spaces. Dealt with creating solutions for technical and creative aspects of projection mapping animations on large-scale exterior and interior surfaces.\\\n\\\nAlso worked on research, concept development, copywriting, photo editing, illustrations, UI design, sound design, 3D modelling/rendering, and client presentations for various design projects.",
+          "description": "* Produced motion graphics and visuals for large-scale displays in museums and exhibition spaces. \n\n* Created solutions for technical and creative aspects of projection mapping animations on large-scale exterior and interior surfaces.\n\n* Responsibilities also included research, concept development, copywriting, photo editing, illustrations, UI design, sound design, 3D modeling and rendering, and client presentations.",
           "attachments": [],
           "type": "workExperience",
           "title": "Motion Designer",
@@ -171,7 +216,7 @@
           "heading": "Architectural Visualiser at Point Construction",
           "url": null,
           "collaborators": [],
-          "description": "Worked with an architecture studio on an interior design project to create real-time walkthroughs and cinematics with Unreal Engine.\\\n\\\nResponsibilities included translating construction drawings to 3D scenes and assets, importing to UE4, lighting, shading, post-processing, and compositing.",
+          "description": "* Real-time archviz walkthroughs and cinematics with UE4. Environment design, look-dev, and rendering.\n\n* Motion design and graphics for marketing and in-house usage.",
           "attachments": [],
           "type": "workExperience",
           "title": "Architectural Visualiser",
@@ -184,7 +229,7 @@
           "heading": "Technical Artist at VRRT",
           "url": "http://www.vrrt.com/",
           "collaborators": [],
-          "description": "Worked as the Unreal Engine specialist in a visualisation studio on a variety of projects ranging from interactive furniture showcases to real-time interior walkthroughs.\\\n\\\nResponsibilities included importing existing scenes and assets to UE4, lighting, shading, post-processing, and creating visuals and cinematics.",
+          "description": "* UE4 tech artist for various visualization projects, including archviz, product design, and interactive demos.",
           "attachments": [],
           "type": "workExperience",
           "title": "Technical Artist",
@@ -197,7 +242,7 @@
           "heading": "Architectural Intern at Innovarch",
           "url": null,
           "collaborators": [],
-          "description": "Worked with a team of architects to create technical drawings, traditional 3D visuals, and walkthroughs for projects of various scales",
+          "description": "* Worked with a team of architects to create technical drawings, linear 3D visualizations, and walkthroughs for residential and commercial projects.",
           "attachments": [],
           "type": "workExperience",
           "title": "Architectural Intern",
@@ -211,27 +256,27 @@
       "items": [
         {
           "id": "40uDsQJzdPjLrBEtjUwT",
-          "year": "2022 — Now",
-          "heading": "MA Game Art and Design at University of Hertfordshire",
+          "year": "2022 — 2023",
+          "heading": "MA Games Art and Design at University of Hertfordshire",
           "url": "https://www.herts.ac.uk/",
           "collaborators": [],
-          "description": "Graduated with a portfolio in Lighting Art. Working primarily in Unreal Engine and other 3D softwares.",
+          "description": "",
           "attachments": [],
           "type": "education",
-          "degree": "MA Game Art and Design",
+          "degree": "MA Games Art and Design",
           "school": "University of Hertfordshire",
-          "location": "United Kingdom"
+          "location": "Hatfield, UK"
         },
         {
           "id": "Rcu2soEPxVk9i2kOJaJp",
           "year": "2013 — 2018",
-          "heading": "Bachelor of Architecure at MNIT",
+          "heading": "B.Arch at MNIT",
           "url": "http://mnit.ac.in/",
           "collaborators": [],
-          "description": null,
+          "description": "",
           "attachments": [],
           "type": "education",
-          "degree": "Bachelor of Architecure",
+          "degree": "B.Arch",
           "school": "MNIT",
           "location": "Jaipur, India"
         }
@@ -251,6 +296,29 @@
           "type": "certification",
           "name": "Introduction to User Experience Design",
           "organization": "Coursera"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "XSQNHwpIRRi0TzOaxDRd",
+          "platform": "Website",
+          "handle": "artstation.com/agentinfinity",
+          "url": "https://www.artstation.com/agentinfinity"
+        },
+        {
+          "id": "bygFOm3fbVnTK5eW0lZs",
+          "platform": "LinkedIn",
+          "handle": "tanmaybhatnagar",
+          "url": "https://linkedin.com/in/tanmaybhatnagar"
+        },
+        {
+          "id": "zCTOXuqDVHtuoDnoPtXk",
+          "platform": "Email",
+          "handle": "tanmaybhatnagar56@gmail.com",
+          "url": "mailto:tanmaybhatnagar56@gmail.com"
         }
       ]
     }
