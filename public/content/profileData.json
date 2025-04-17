@@ -1,0 +1,258 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "tanmay",
+    "displayName": "Tanmay Bhatnagar",
+    "profession": "Lighting / Level Artist",
+    "location": "London, UK",
+    "pronouns": "He/Him",
+    "byline": "Lighting / Level Artist in London, UK, He/Him",
+    "website": "https://www.artstation.com/agentinfinity",
+    "websiteURL": "https://www.artstation.com/agentinfinity",
+    "about": "MA in Games Art graduate with 5+ years in real-time archviz, VR/AR, and animation using Unreal Engine, Blender, and Cinema4D. Skilled in various design tools, passionate about tech art, procedural content, and currently exploring film effects emulation in Unreal Engine.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": null
+  },
+  "projects": [],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "MdY7bgAXBiLaKNXDvrcy",
+      "year": "2021 — Now",
+      "heading": "3D Generalist at Intellectual Point",
+      "url": null,
+      "collaborators": [],
+      "description": "Worked on a number of 3D (still and animated), motion-design, and VR projects for a US-based IT company for marketing and educational purposes. Primarily in Unreal Engine, Blender and After Effects.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "3D Generalist",
+      "company": "Intellectual Point",
+      "location": "VA, USA"
+    },
+    {
+      "id": "2J3UHusP25hymAbjKaJc",
+      "year": "2020 — 2021",
+      "heading": "Motion Designer at Design Factory India",
+      "url": "http://designfactoryindia.org/",
+      "collaborators": [],
+      "description": "Primary role was producing animations and visuals on historical and cultural topics, for display in museums and exhibition spaces. Dealt with creating solutions for technical and creative aspects of projection mapping animations on large-scale exterior and interior surfaces.\\\n\\\nAlso worked on research, concept development, copywriting, photo editing, illustrations, UI design, sound design, 3D modelling/rendering, and client presentations for various design projects.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Motion Designer",
+      "company": "Design Factory India",
+      "location": "Noida, India"
+    },
+    {
+      "id": "BLQMS525yF347tbjGl77",
+      "year": "2019 — 2020",
+      "heading": "Architectural Visualiser at Point Construction",
+      "url": null,
+      "collaborators": [],
+      "description": "Worked with an architecture studio on an interior design project to create real-time walkthroughs and cinematics with Unreal Engine.\\\n\\\nResponsibilities included translating construction drawings to 3D scenes and assets, importing to UE4, lighting, shading, post-processing, and compositing.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Architectural Visualiser",
+      "company": "Point Construction",
+      "location": "Gurgaon, India"
+    },
+    {
+      "id": "V820jRjdSrXm0oB3eqgW",
+      "year": "2018 — 2019",
+      "heading": "Technical Artist at VRRT",
+      "url": "http://www.vrrt.com/",
+      "collaborators": [],
+      "description": "Worked as the Unreal Engine specialist in a visualisation studio on a variety of projects ranging from interactive furniture showcases to real-time interior walkthroughs.\\\n\\\nResponsibilities included importing existing scenes and assets to UE4, lighting, shading, post-processing, and creating visuals and cinematics.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Technical Artist",
+      "company": "VRRT",
+      "location": "New Delhi, India"
+    },
+    {
+      "id": "zL9hhcSDIuYIhqmvQm20",
+      "year": "2017 — 2017",
+      "heading": "Architectural Intern at Innovarch",
+      "url": null,
+      "collaborators": [],
+      "description": "Worked with a team of architects to create technical drawings, traditional 3D visuals, and walkthroughs for projects of various scales",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Architectural Intern",
+      "company": "Innovarch",
+      "location": "Bangalore, India"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "40uDsQJzdPjLrBEtjUwT",
+      "year": "2022 — Now",
+      "heading": "MA Game Art and Design at University of Hertfordshire",
+      "url": "https://www.herts.ac.uk/",
+      "collaborators": [],
+      "description": "Graduated with a portfolio in Lighting Art. Working primarily in Unreal Engine and other 3D softwares.",
+      "attachments": [],
+      "type": "education",
+      "degree": "MA Game Art and Design",
+      "school": "University of Hertfordshire",
+      "location": "United Kingdom"
+    },
+    {
+      "id": "Rcu2soEPxVk9i2kOJaJp",
+      "year": "2013 — 2018",
+      "heading": "Bachelor of Architecure at MNIT",
+      "url": "http://mnit.ac.in/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor of Architecure",
+      "school": "MNIT",
+      "location": "Jaipur, India"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "nDkIrUUK4m6OZeityNCN",
+      "year": "2020",
+      "heading": "Introduction to User Experience Design from Coursera",
+      "url": "https://www.coursera.org/learn/user-experience-design/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "certification",
+      "name": "Introduction to User Experience Design",
+      "organization": "Coursera"
+    }
+  ],
+  "contact": [],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "MdY7bgAXBiLaKNXDvrcy",
+          "year": "2021 — Now",
+          "heading": "3D Generalist at Intellectual Point",
+          "url": null,
+          "collaborators": [],
+          "description": "Worked on a number of 3D (still and animated), motion-design, and VR projects for a US-based IT company for marketing and educational purposes. Primarily in Unreal Engine, Blender and After Effects.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "3D Generalist",
+          "company": "Intellectual Point",
+          "location": "VA, USA"
+        },
+        {
+          "id": "2J3UHusP25hymAbjKaJc",
+          "year": "2020 — 2021",
+          "heading": "Motion Designer at Design Factory India",
+          "url": "http://designfactoryindia.org/",
+          "collaborators": [],
+          "description": "Primary role was producing animations and visuals on historical and cultural topics, for display in museums and exhibition spaces. Dealt with creating solutions for technical and creative aspects of projection mapping animations on large-scale exterior and interior surfaces.\\\n\\\nAlso worked on research, concept development, copywriting, photo editing, illustrations, UI design, sound design, 3D modelling/rendering, and client presentations for various design projects.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Motion Designer",
+          "company": "Design Factory India",
+          "location": "Noida, India"
+        },
+        {
+          "id": "BLQMS525yF347tbjGl77",
+          "year": "2019 — 2020",
+          "heading": "Architectural Visualiser at Point Construction",
+          "url": null,
+          "collaborators": [],
+          "description": "Worked with an architecture studio on an interior design project to create real-time walkthroughs and cinematics with Unreal Engine.\\\n\\\nResponsibilities included translating construction drawings to 3D scenes and assets, importing to UE4, lighting, shading, post-processing, and compositing.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Architectural Visualiser",
+          "company": "Point Construction",
+          "location": "Gurgaon, India"
+        },
+        {
+          "id": "V820jRjdSrXm0oB3eqgW",
+          "year": "2018 — 2019",
+          "heading": "Technical Artist at VRRT",
+          "url": "http://www.vrrt.com/",
+          "collaborators": [],
+          "description": "Worked as the Unreal Engine specialist in a visualisation studio on a variety of projects ranging from interactive furniture showcases to real-time interior walkthroughs.\\\n\\\nResponsibilities included importing existing scenes and assets to UE4, lighting, shading, post-processing, and creating visuals and cinematics.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Technical Artist",
+          "company": "VRRT",
+          "location": "New Delhi, India"
+        },
+        {
+          "id": "zL9hhcSDIuYIhqmvQm20",
+          "year": "2017 — 2017",
+          "heading": "Architectural Intern at Innovarch",
+          "url": null,
+          "collaborators": [],
+          "description": "Worked with a team of architects to create technical drawings, traditional 3D visuals, and walkthroughs for projects of various scales",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Architectural Intern",
+          "company": "Innovarch",
+          "location": "Bangalore, India"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "40uDsQJzdPjLrBEtjUwT",
+          "year": "2022 — Now",
+          "heading": "MA Game Art and Design at University of Hertfordshire",
+          "url": "https://www.herts.ac.uk/",
+          "collaborators": [],
+          "description": "Graduated with a portfolio in Lighting Art. Working primarily in Unreal Engine and other 3D softwares.",
+          "attachments": [],
+          "type": "education",
+          "degree": "MA Game Art and Design",
+          "school": "University of Hertfordshire",
+          "location": "United Kingdom"
+        },
+        {
+          "id": "Rcu2soEPxVk9i2kOJaJp",
+          "year": "2013 — 2018",
+          "heading": "Bachelor of Architecure at MNIT",
+          "url": "http://mnit.ac.in/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor of Architecure",
+          "school": "MNIT",
+          "location": "Jaipur, India"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "nDkIrUUK4m6OZeityNCN",
+          "year": "2020",
+          "heading": "Introduction to User Experience Design from Coursera",
+          "url": "https://www.coursera.org/learn/user-experience-design/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "certification",
+          "name": "Introduction to User Experience Design",
+          "organization": "Coursera"
+        }
+      ]
+    }
+  ]
+}
