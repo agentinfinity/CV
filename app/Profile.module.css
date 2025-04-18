@@ -63,6 +63,7 @@
 	display: flex;
 	align-items: center;
 	color: var(--grey2);
+  background-color: var(--wash2);
 }
 
 .experiences {
