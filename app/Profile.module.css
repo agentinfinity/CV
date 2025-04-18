@@ -50,6 +50,21 @@
   margin-bottom: calc((var(--font-size) * var(--line-height)) / 2);
 }
 
+.website {
+	font-size: var(--secondary-type-size);
+	height: 24px;
+	padding: 0 10px;
+	border-radius: 12px;
+	flex-shrink: 1;
+	background-color: #f6f6f6;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	display: flex;
+	align-items: center;
+	color: var(--grey2);
+}
+
 .experiences {
   display: flex;
   flex-direction: column;
